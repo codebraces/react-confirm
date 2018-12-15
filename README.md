@@ -2,6 +2,7 @@
 <!-- [![Build Status](https://travis-ci.org/codebraces/react-confirm.svg?branch=master)](https://travis-ci.org/codebraces/react-confirm) -->
 [![npm Version](https://img.shields.io/npm/v/@braces/react-confirm.svg)](https://www.npmjs.com/package/@braces/react-confirm)
 
+#### This package is deprecate, Please check [@braces/reconfirm](https://www.npmjs.com/package/@braces/reconfirm)
 
 ## Install
 1 Install react confirm as dependency
